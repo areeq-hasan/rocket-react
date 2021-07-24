@@ -1,1 +1,1 @@
-# rocket-react
+# Rocket/React.js Stack Template
